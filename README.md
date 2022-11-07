@@ -1,8 +1,14 @@
-# currency-converter
+# Currency-converter
+
+## Page Preview
+![Page Gif](/gifs/CurrencyConverter.gif)
+
 ## Demo
 https://aserk.github.io/currency-converter/
+
 ## Description
 This is simple currency converter.
+
 ## Technologies
 To create the page I used:
 1. HTML

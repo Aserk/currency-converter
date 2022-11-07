@@ -1,0 +1,19 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+::after,
+::before {
+    box-sizing: inherit;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-image: url("../image/calculator.jpg");
+    background-attachment: fixed;
+    background-position: top center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
